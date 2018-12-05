@@ -6,6 +6,8 @@
  * Version:     1.0
  */
 
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 
 function zume_new_blog_force_dt_theme( $blog_id, $user_id, $domain, $path, $site_id, $meta ) {
     update_blog_option( $blog_id,'template','disciple-tools-theme' );
