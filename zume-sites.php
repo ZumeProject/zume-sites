@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Zume Project Sites
+ * Plugin Name: Zúme Sites
  * Plugin URI:  https://github.com/DiscipleTools/disciple-tools-multisite
- * Description: Plugin with specific scripts to configure the multisite Zume Project installation.
+ * Description: Plugin with specific scripts to configure the multisite Zume Training installation.
  * Version:     1.0
  */
 
